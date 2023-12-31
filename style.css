@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1476108621677-3c620901b5e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+#mesaj{
+    text-align: center;
+    margin-top: 5.5rem;
+    font-size: 85px;
+    font-weight: bold;
+    color: #1d1720;
+}
+
+.times{
+    text-align: center;
+    padding: 5rem;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.day, .hour, .minute, .second{
+    padding: 8rem;
+    padding-top: 5rem;
+    color: #061a22;
+    font-size: 27px;
+}
+
+.many{
+    font-size: 100px;
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+}
+
+.message{
+    font-size: cover;
+    font-weight: bolder;
+}
